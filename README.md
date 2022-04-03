@@ -10,7 +10,8 @@ The main aim of this project was to get more hands on experience with module bun
   cd phila-tours
  ```
  
-The project uses **gulp task runner** for several tasks, one can check them out with the following command `gulp --tasks`
+The project uses **gulp task runner** for several tasks, one can check them out with the following command: 
+`gulp --tasks`
 
 To name a few examples,
   1. Creating CSS Image Sprites
@@ -24,3 +25,5 @@ To name a few examples,
   gulp build
   gulp watch 
  ```
+
+Here the build task will automatically create the destination folder and the watch task will constantly watch the files for any changes. 
