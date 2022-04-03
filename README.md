@@ -9,3 +9,10 @@ The main aim of this project was to get more hands on experience with module bun
   git clone https://github.com/Sahethi/phila-tours.git
   cd phila-tours
  ```
+ 
+- To Run
+
+```bash
+  gulp build
+  gulp watch 
+ ```
