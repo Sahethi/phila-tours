@@ -14,10 +14,10 @@ The project uses **gulp task runner** for several tasks, one can check them out 
 `gulp --tasks`
 
 To name a few examples,
-  1. Creating CSS Image Sprites
+  1. Creating CSS Image Sprites (image sprite is a collection of images put into a single image)
   2. Minifying JavaScript & CSS
   3. Watching Files
-  4. Autoprefixing the CSS files.
+  4. Autoprefixing the CSS files (a PostCSS plugin which parses your CSS and adds vendor prefixes)
 
 - To Run
 
